@@ -1,0 +1,69 @@
+[submodule "github/rainfu/xcoin"]
+	path = github/rainfu/xcoin
+	url = https://github.com/rainfu/xcoin.git
+[submodule "github/ranaroussi/quantstats"]
+	path = github/ranaroussi/quantstats
+	url = https://github.com/ranaroussi/quantstats.git
+[submodule "github/raphant/freqtrade-strategies"]
+	path = github/raphant/freqtrade-strategies
+	url = https://github.com/raphant/freqtrade-strategies.git
+[submodule "github/raphant/lazyft"]
+	path = github/raphant/lazyft
+	url = https://github.com/raphant/lazyft.git
+[submodule "github/serhankilicarslan/freqtrade-bot"]
+	path = github/serhankilicarslan/freqtrade-bot
+	url = https://github.com/serhankilicarslan/freqtrade-bot.git
+[submodule "github/shanejones/goddard"]
+	path = github/shanejones/goddard
+	url = https://github.com/shanejones/goddard.git
+[submodule "github/shocker1185/user_data"]
+	path = github/shocker1185/user_data
+	url = https://github.com/shocker1185/user_data.git
+[submodule "github/sofienkaabar/Trend-Following-Strategies"]
+	path = github/sofienkaabar/Trend-Following-Strategies
+	url = https://github.com/sofienkaabar/Trend-Following-Strategies.git
+[submodule "github/stash86/MultiMA_TSL"]
+	path = github/stash86/MultiMA_TSL
+	url = https://github.com/stash86/MultiMA_TSL.git
+[submodule "github/stash86/freqtrade_stuff"]
+	path = github/stash86/freqtrade_stuff
+	url = https://github.com/stash86/freqtrade_stuff.git
+[submodule "github/stash86/ft-dashboard"]
+	path = github/stash86/ft-dashboard
+	url = https://github.com/stash86/ft-dashboard.git
+[submodule "github/sunereyt/Vires-in-Numeris"]
+	path = github/sunereyt/Vires-in-Numeris
+	url = https://github.com/sunereyt/Vires-in-Numeris.git
+[submodule "github/taina0407/simple_binance_futures"]
+	path = github/taina0407/simple_binance_futures
+	url = https://github.com/taina0407/simple_binance_futures.git
+[submodule "github/thierryjmartin/freqtrade-stuff"]
+	path = github/thierryjmartin/freqtrade-stuff
+	url = https://github.com/thierryjmartin/freqtrade-stuff.git
+[submodule "github/thinkong/awesomefreqtrade"]
+	path = github/thinkong/awesomefreqtrade
+	url = https://github.com/thinkong/awesomefreqtrade.git
+[submodule "github/thinkong/freqtradestrategies"]
+	path = github/thinkong/freqtradestrategies
+	url = https://github.com/thinkong/freqtradestrategies.git
+[submodule "github/thraizz/freqtrade-dashboard"]
+	path = github/thraizz/freqtrade-dashboard
+	url = https://github.com/thraizz/freqtrade-dashboard.git
+[submodule "github/tjgeirk/freqport"]
+	path = github/tjgeirk/freqport
+	url = https://github.com/tjgeirk/freqport.git
+[submodule "github/tutecode/freq-strategies"]
+	path = github/tutecode/freq-strategies
+	url = https://github.com/tutecode/freq-strategies.git
+[submodule "github/twinslabnet/stra"]
+	path = github/twinslabnet/stra
+	url = https://github.com/twinslabnet/stra.git
+[submodule "github/wanderindev/crypto-bot"]
+	path = github/wanderindev/crypto-bot
+	url = https://github.com/wanderindev/crypto-bot.git
+[submodule "github/webclinic017/user_data"]
+	path = github/webclinic017/user_data
+	url = https://github.com/webclinic017/user_data.git
+[submodule "github/werkkrew/freqtrade-strategies"]
+	path = github/werkkrew/freqtrade-strategies
+	url = https://github.com/werkkrew/freqtrade-strategies.git
