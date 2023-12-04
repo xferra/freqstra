@@ -67,3 +67,78 @@
 [submodule "github/werkkrew/freqtrade-strategies"]
 	path = github/werkkrew/freqtrade-strategies
 	url = https://github.com/werkkrew/freqtrade-strategies.git
+[submodule "github/mablue/freqtrade-strategies"]
+	path = github/mablue/freqtrade-strategies
+	url = https://github.com/mablue/freqtrade-strategies.git
+[submodule "github/matthieu-hm/freqtrade_consumer_producer_strategies"]
+	path = github/matthieu-hm/freqtrade_consumer_producer_strategies
+	url = https://github.com/matthieu-hm/freqtrade_consumer_producer_strategies.git
+[submodule "github/mcDucksProject/mcDucksBroker"]
+	path = github/mcDucksProject/mcDucksBroker
+	url = https://github.com/mcDucksProject/mcDucksBroker.git
+[submodule "github/meesvw/freqtrade-egg"]
+	path = github/meesvw/freqtrade-egg
+	url = https://github.com/meesvw/freqtrade-egg.git
+[submodule "github/meesvw/freqtrade-stuff"]
+	path = github/meesvw/freqtrade-stuff
+	url = https://github.com/meesvw/freqtrade-stuff.git
+[submodule "github/mikedigriz/freqtrade-strategy-mikedigriz"]
+	path = github/mikedigriz/freqtrade-strategy-mikedigriz
+	url = https://github.com/mikedigriz/freqtrade-strategy-mikedigriz.git
+[submodule "github/mikekonan/exchange-proxy"]
+	path = github/mikekonan/exchange-proxy
+	url = https://github.com/mikekonan/exchange-proxy.git
+[submodule "github/minulislam/freqtrade-strategies"]
+	path = github/minulislam/freqtrade-strategies
+	url = https://github.com/minulislam/freqtrade-strategies.git
+[submodule "github/miwtoo/ft-action-zone"]
+	path = github/miwtoo/ft-action-zone
+	url = https://github.com/miwtoo/ft-action-zone.git
+[submodule "github/miwtoo/ft-scalping-ema-stochrsi"]
+	path = github/miwtoo/ft-scalping-ema-stochrsi
+	url = https://github.com/miwtoo/ft-scalping-ema-stochrsi.git
+[submodule "github/nateemma/strategies"]
+	path = github/nateemma/strategies
+	url = https://github.com/nateemma/strategies.git
+[submodule "github/nenjotsu/ftbot"]
+	path = github/nenjotsu/ftbot
+	url = https://github.com/nenjotsu/ftbot.git
+[submodule "github/nightshift2k/algotrading-as-code"]
+	path = github/nightshift2k/algotrading-as-code
+	url = https://github.com/nightshift2k/algotrading-as-code.git
+[submodule "github/nightshift2k/freqtrade-tools"]
+	path = github/nightshift2k/freqtrade-tools
+	url = https://github.com/nightshift2k/freqtrade-tools.git
+[submodule "github/ntsd/freqtrade-configs"]
+	path = github/ntsd/freqtrade-configs
+	url = https://github.com/ntsd/freqtrade-configs.git
+[submodule "github/obseries/freqtrade-data-bybit"]
+	path = github/obseries/freqtrade-data-bybit
+	url = https://github.com/obseries/freqtrade-data-bybit.git
+[submodule "github/obseries/freqtrade-savannah"]
+	path = github/obseries/freqtrade-savannah
+	url = https://github.com/obseries/freqtrade-savannah.git
+[submodule "github/obseries/freqtrade-strategy-ichiv1"]
+	path = github/obseries/freqtrade-strategy-ichiv1
+	url = https://github.com/obseries/freqtrade-strategy-ichiv1.git
+[submodule "github/obseries/freqtrade-strategy-reinforcedquickie"]
+	path = github/obseries/freqtrade-strategy-reinforcedquickie
+	url = https://github.com/obseries/freqtrade-strategy-reinforcedquickie.git
+[submodule "github/orkblutt/QFreqtradeUI"]
+	path = github/orkblutt/QFreqtradeUI
+	url = https://github.com/orkblutt/QFreqtradeUI.git
+[submodule "github/p-zombie/freqtrade"]
+	path = github/p-zombie/freqtrade
+	url = https://github.com/p-zombie/freqtrade.git
+[submodule "github/paulcpk/freqtrade-strategies-that-work"]
+	path = github/paulcpk/freqtrade-strategies-that-work
+	url = https://github.com/paulcpk/freqtrade-strategies-that-work.git
+[submodule "github/paulcpk/mql5-MT5-MACD-Classic"]
+	path = github/paulcpk/mql5-MT5-MACD-Classic
+	url = https://github.com/paulcpk/mql5-MT5-MACD-Classic.git
+[submodule "github/petedx/freqtrade_pub_strats"]
+	path = github/petedx/freqtrade_pub_strats
+	url = https://github.com/petedx/freqtrade_pub_strats.git
+[submodule "github/phuchust/freqtrade_strategy"]
+	path = github/phuchust/freqtrade_strategy
+	url = https://github.com/phuchust/freqtrade_strategy.git
